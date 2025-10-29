@@ -1,0 +1,7 @@
+1 byte is 8 bits 
+AES is block cypher so it just takes blocks of plaintext ex 128 bits and scarmbles it to 
+guve an output of also 128 bits. 
+a key is needed to decrypt or unscramble this encryption
+permutation is which type pf transformation is happening on the block
+when i searched it up it said a bijective is when each input corresponds to exactly one output, 
+and each output corresponds to exactly one input

@@ -1,3 +1,4 @@
+# fermats theorem a^(p-1) = 1 mod p
 # Small examples with p = 17 just gonna text it first
 p = 17
 
