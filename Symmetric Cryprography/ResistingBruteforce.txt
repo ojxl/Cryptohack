@@ -1,0 +1,6 @@
+brute force is when you dont know a definitive key or permutation so u try evrything possible
+128 bit keyspace is 2^128 keys which is a number far too big to brute force 
+thee is 1 known attack againts 128 bit key thats slightly better than brute forcing 
+and it reduces the security from 128 to 126.1 bit and it hasny improved for the last 8 years 
+and is still completely imparctical
+this single key after a google search i found out is called Biclique 
