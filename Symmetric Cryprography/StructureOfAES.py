@@ -8,6 +8,7 @@ def matrix2bytes(matrix):
     return bytes([matrix[row][col] for row in range(4) for col in range(4)])
 
 
+# This is our 4x4 matrix of ASCII values
 matrix = [
     [99, 114, 121, 112],
     [116, 111, 123, 105],
@@ -15,4 +16,5 @@ matrix = [
     [114, 105, 120, 125],
 ]
 
+# Convert the matrix back into readable text
 print(matrix2bytes(matrix))

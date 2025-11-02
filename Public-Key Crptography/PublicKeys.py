@@ -4,5 +4,8 @@ p = 17
 q = 23
 N = p * q  # modulus
 
-ciph = pow(number,e,N)
+# Encrypt the number using RSA: ciphertext = number^e mod N
+ciph = pow(number, e, N)
+
+# Print the encrypted result
 print(ciph)  # encrypted number

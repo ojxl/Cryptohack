@@ -1,4 +1,5 @@
 #reference: https://docs.sympy.org/latest/modules/ntheory.html#sympy.ntheory.factorint
+#factors an integer into its prime factors
 from sympy import factorint
 N = 510143758735509025530880200653196460532653147
 
